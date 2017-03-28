@@ -1,9 +1,9 @@
 # Site settings
 title: RSES Data Science Team
-subtitle: by HTML5 UP
+#subtitle: by HTML5 UP
 email: malcolm.samridge@anu.edu.au
 description: Webpage of the RSES Data Science Theme
-baseurl: "/rses-datascience.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/rses-datascience.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: Research SChool of Earth Science, The Australian National University

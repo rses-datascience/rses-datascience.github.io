@@ -1,13 +1,13 @@
 # Site settings
-title: Research School of Earth Science - Data Science Theme
+title: Research School of Earth Sciences - Data Science Theme
 subtitle: The Australian National University
-longtitle: Research School of Earth Science - The Australian National University
+longtitle: Research School of Earth Sciences - The Australian National University
 email: malcolm.samridge@anu.edu.au
 description: Webpage of the RSES Data Science Theme
 baseurl: "/rses-datascience.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: Research School of Earth Science, The Australian National University
+street_address: Research School of Earth Sciences, The Australian National University
 city: Canberra
 state: ACT
 zip_code: 2601

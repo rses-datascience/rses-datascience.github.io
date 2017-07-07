@@ -13,7 +13,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-In the 21th numerical century, data science is an central topic. At RSES, scientists use data science tools for their everyday research and develops new ways at looking at data.
+In the 21th numerical century, data science is an central topic. At the Research School of Earth Sciences, the Australian National University, scientists use data science tools for their everyday research and develops new ways at looking at data.
 
 </header>
   <div class="content">

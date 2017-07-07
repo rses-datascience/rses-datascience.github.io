@@ -11,8 +11,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Research Challenges discussion group</h1>
 		</header>
-		<p>The Research Challenges discussion group welcome seminars, tutorials, throught sharing about research in data science in relationship with Earth sciences.</p>
-		<p>The aim of this initiative is to foster and allow easy exchanges of ideas about improving existing approaches and developping new tools for use in Earth sciences problems.</p>
+		<p>The Research Challenges discussion group welcomes seminars, tutorials, and sharing about research in data science in relationship with Earth sciences. The aim of this initiative is to foster and to allow easy exchanges of ideas about improving existing approaches and developping new tools for use in Earth sciences problems.</p>
 		<p>The group meets forthnightly.</p>
 		<header class="major">
 			<h1>Organizers</h1>

@@ -26,9 +26,16 @@ In the 21th numerical century, data science is an central topic. At RSES, scient
 
 <div id="main">
   <section id="one">
-  <div class="inner"><header class="major">
-<h2>Members</h2>
-</header>
+  <div class="inner">
+	<header class="major">
+		<h2>Initiatives</h2>
+	</header>
+	
+	<p>The RSES Data Science theme leads several initiatives with various outreachs. For instance, the Data Surgery sessions aim at providing cutting-edge ressources and data science tools for RSES and ANU scientists. In parallel, the Research Challenges discussion group focus on novel mathetics and machine-learning approaches on geoscience data. The RSES Data Science theme also leads initiatives to generate and foster connections between RSES scientists interested in data sciences and scientists from other institutions and other fields.
+	
+	<header class="major">
+		<h2>Members</h2>
+	</header>
 
 <br><a href="http://rses.anu.edu.au/~malcolm/">Malcolm Sambridge</a>
 <br><a href="http://rses.anu.edu.au/people/david-heslop">David Heslop</a>

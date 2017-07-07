@@ -18,12 +18,12 @@ nav-menu: true
 		
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<h3><a href="https://github.com/charlesll/SiliCat">Silicat</a></h3>
-				<p> A Framework for studying the properties and structure of silicate melts</p>
+				<h3><a href="http://charlesll.github.io/Spectra.jl/stable/">Spectra</a></h3>
+				<p> Spectra.jl is a package aimed at helping spectroscopic (Raman, Infrared, Nuclear Magnetic Resonance, XAS...) data treatment written with the Julia programming language.</p>
 			</div>
 			<div class="6u 12u$(small)">
-				<h3>Some Other project</h3>
-				<p>Some other project</p>
+				<h3><a href="https://charlesll.github.io/gcvspline/">gcvspline</a></h3>
+				<p>gcvspline is a small Python package wrapping the gcvspl.f FORTRAN library.</p>
 			</div>
 		</div>
 		
@@ -33,14 +33,18 @@ nav-menu: true
 		
 		<div class="row">
 			<div class="6u 12u$(small)">
+				<h3><a href="http://www.iearth.org.au/">iEarth</a></h3>
+				<p>iEarth is a consortium of scientists from the university, government and industry sectors with interests in the development and application of inversion methodologies for the Earth Sciences.</p>
+			</div>
+			<div class="6u 12u$(small)">
 				<h3><a href="http://rses.anu.edu.au/TerraWulf/">TerraWulf</a></h3>
 				<p>TerraWulf is a networked ‘Beowulf’ cluster of computers set up at RSES to provide convenient high end computing power for a range of demanding geoscience problems.</p>
 			</div>
+			<!-- Break -->
 			<div class="6u 12u$(small)">
 				<h3><a href="http://rses.anu.edu.au/seismology/projects/tireg/tomo.html">Tomography in Irregular Cells</a></h3>
 				<p>Seismic tomography with irregular parameterization.</p>
 			</div>
-			<!-- Break -->
 			<div class="6u 12u$(small)">
 				<h3><a href="http://rses.anu.edu.au/seismology/projects/RUM/rum.html">Regionalized Upper Mantle seismic model of Earth </a></h3>
 				<p>Global tomographic images correlate strongly with major tectonic features. The level of velocity variations is highly concentrated in the upper mantle and most globally recorded earthquakes occur in, or around, subducting slabs. This leads us to a new strategy in global tomography. We insert a-priori information by designing an irregular parameterisation which incorporates these observations.</p>

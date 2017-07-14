@@ -74,6 +74,9 @@ nav-menu: true
 				<h3>Spectroscopy</h3>
 					<h4><a href="http://charlesll.github.io/Spectra.jl/">Spectra.jl</a></h4>
 						<p>Spectra.jl is a library aimed at helping spectroscopic (Raman, Infrared, Nuclear Magnetic Resonance, XAS...) data treatment written in Julia.</p>
+					<h4><a href="https://charlesll.github.io/gcvspline/">gcvspline</a></h3>
+						<p>gcvspline is a small Python package wrapping the gcvspl.f FORTRAN library.</p>
+					</div>
 				<h3>Geochemistry</h3>
 					<h4><a href="https://github.com/charlesll/ViscoAG">ViscoAG</a></h4>
 						<p>ViscoAG is a software written in Julia that allows calculating the viscosity of silicate melts based on the knowledge of their structure.</p>

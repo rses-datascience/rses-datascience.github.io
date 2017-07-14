@@ -18,12 +18,8 @@ nav-menu: true
 		
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<h3><a href="http://charlesll.github.io/Spectra.jl/stable/">Spectra</a></h3>
-				<p> Spectra.jl is a package aimed at helping spectroscopic (Raman, Infrared, Nuclear Magnetic Resonance, XAS...) data treatment written with the Julia programming language.</p>
-			</div>
-			<div class="6u 12u$(small)">
-				<h3><a href="https://charlesll.github.io/gcvspline/">gcvspline</a></h3>
-				<p>gcvspline is a small Python package wrapping the gcvspl.f FORTRAN library.</p>
+				<h3>Trans-D Bayesian fitting of spectroscopic data</h3>
+				<p>This project aims at improving geochemical observables from Raman and Infrared spectroscopic data through the use of Trans-Dimentional Bayesian approaches used in Seismology.</p>
 			</div>
 		</div>
 		

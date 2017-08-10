@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ressource list
-description: Ressources used and developped at RSES
+title: Resource list
+description: Resources used and developped at RSES
 image: 
 nav-menu: true
 --- 

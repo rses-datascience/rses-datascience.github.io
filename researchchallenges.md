@@ -21,5 +21,10 @@ nav-menu: true
 		<header class="major">
 			<h1>Schedule</h1>
 		</header>
+		<p> 18/09/2017 - Machine Learning Noob and Mid Ocean Ridge Basalts: Fight! - Charles Le Losq (RSES-ANU)</p>
+		<p> 03/10/2017 - What is this 'machine learning' thing, anyway? - Andrew Valentine (RSES-ANU)</p>
+		<p> 16/10/2017 - Fitting curves to data: old and new - Malcolm Sambridge (RSES-ANU)</p>
+		<p> 30/10/2017 - Why Raman Spectra are like Dogs or Cats? - Charles Le Losq (RSES-ANU)</p>
+		<p> 13/11/2017 - Smoothing surfaces - David Heslop (RSES-ANU)</p>
 	</div>
 </section>

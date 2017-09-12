@@ -11,9 +11,8 @@ nav-menu: true
 		<header class="major">
 			<h1>Data Surgery sessions</h1>
 		</header>
-		<p>The Data Surgery sessions proposes tutorials on established data science problems, as well as help for solving Earth science problems with existing data science tools.</p>
-		<p>The aim of this initiative is to improve the awareness about data science at RSES, and to allow any RSES scientist, whatever level he is working at, to have access to tools and help regarding the use of data science for geosciences.</p>
-		<p>The group meets forthnightly.</p>
+		<p>The Data Surgery sessions will consist of tutorials aimed at helping students and staff solve Earth science problems with existing data science tools. They aim at improving the awareness and competence of RSES PhD students of all ages in data science.</p>
+		<p>The group will meet forthnightly with a focus on discussion and improving skills.</p>
 		<header class="minor">
 			<h2>Organizers</h2>
 		</header>

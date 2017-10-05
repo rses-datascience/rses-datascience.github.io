@@ -23,13 +23,13 @@ nav-menu: true
 		<header class="minor">
 			<h2>Schedule</h2>
 		</header>
-		<p> <b>Data Surgery sessions are at 11:30 am on Mondays.</b> After each session, a summary <a href="http://jupyter.org/" target="_blank">Jupyter Notebook</a> will be put on the <a href="https://github.com/rses-datascience/DataSurgeries" target="_blank">DataSurgeries GitHub page</a> for reference.</p>
+		<p> <b>Data Surgery sessions are at 11:30 am on Mondays.</b> After each session, a summary <a href="http://jupyter.org/" target="_blank">Jupyter Notebook</a> will be put on the <a href="https://github.com/rses-datascience/DataSurgeries" target="_blank">DataSurgeries GitHub page</a> for reference (also linked in the table below).</p>
 		<table>
 			<tr>
 				<td><b>Date</b></td>
 				<td><b>Who</b></td>
 				<td><b>What</b></td>
-				<td><b>Room</b></td>
+				<td><b>Where</b></td>
 			</tr>
 			<tr>
 				<td><b>26/09/2017</b></td>

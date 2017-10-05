@@ -11,8 +11,8 @@ nav-menu: true
 		<header class="major">
 			<h1>Data Surgery sessions</h1>
 		</header>
-		<p>Discussion groups/tutorials aimed at helping HDR students solve Earth science problems with data science tools. </p>
-		<p>The group meets every two weeks, and aims to encourage the open discussion of the theory and practice of data processing.</p>
+		<p>Discussion groups/tutorials aimed at helping HDR students solve Earth science problems with data science tools. The group meets every two weeks, and aims to encourage the open discussion of the theory and practice of data processing.</p>
+		<p>A summary of each session will end up in our <a href="https://github.com/rses-datascience/DataSurgeries" target="_blank">Github repository</a>.</p>
 		<header class="minor">
 			<h2>Organizers</h2>
 		</header>

@@ -11,8 +11,8 @@ nav-menu: true
 		<header class="major">
 			<h1>Data Surgery sessions</h1>
 		</header>
-		<p>Discussion groups/tutorials aimed at helping HDR students solve Earth science problems with data science tools. They aim to improve the awareness and competence of RSES PhD students in data science.</p>
-		<p>The group will meet forthnightly with a focus on discussion and improving skills.</p>
+		<p>Discussion groups/tutorials aimed at helping HDR students solve Earth science problems with data science tools. </p>
+		<p>The group meets every two weeks, and aims to encourage the open discussion of the theory and practice of data processing.</p>
 		<header class="minor">
 			<h2>Organizers</h2>
 		</header>
@@ -51,16 +51,16 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td><b>06/11/2017</b></td>
-				<td>TBC</td>
+				<td><a href="https://goo.gl/forms/pq1FIkvxYlrQD8t62" target="_blank">Contact us!</a></td>
 				<td>TBC</td>
 				<td>Hales Room, J7</td>
 			</tr>
-			<tr>
+			<!-- <tr>
 				<td><b>20/11/2017</b></td>
 				<td>TBC</td>
 				<td>TBC</td>
 				<td>Hales Room, J7</td>
-			</tr>
+			</tr> -->
 			<!-- <tr>
 				<td><b></b></td>
 				<td></td>

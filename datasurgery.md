@@ -40,13 +40,13 @@ nav-menu: true
 				<td><b>09/10/2017</b></td>
 				<td>Katie Harazin</td>
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb" target="_blank">Matching complex profiles ("wiggle matching")</a></td>
-				<td>Hales Room, J7</td>
+				<td>TBC</td>
 			</tr>
 			<tr>
 				<td><b>23/11/2017</b></td>
 				<td>Jessica Amies</td>
 				<td>Uncertainties in model inputs/outputs.</td>
-				<td>Hales Room, J7</td>
+				<td>TBC</td>
 			</tr>
 			<tr>
 				<td><b>06/11/2017</b></td>

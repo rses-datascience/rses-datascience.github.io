@@ -39,7 +39,7 @@ nav-menu: true
 			<tr>
 				<td><b>09/10/2017</b></td>
 				<td>Katie Harazin</td>
-				<td>Matching complex profiles ("wiggle matching")</td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb" target="_blank">Matching complex profiles ("wiggle matching")</a></td>
 				<td>Hales Room, J7</td>
 			</tr>
 			<tr>

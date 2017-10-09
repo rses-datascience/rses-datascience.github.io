@@ -40,7 +40,7 @@ nav-menu: true
 				<td><b>09/10/2017</b></td>
 				<td>Katie Harazin</td>
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb" target="_blank">Matching complex profiles ("wiggle matching")</a></td>
-				<td>TBC</td>
+				<td>Hales Room, J7</td>
 			</tr>
 			<tr>
 				<td><b>23/11/2017</b></td>
@@ -52,7 +52,7 @@ nav-menu: true
 				<td><b>06/11/2017</b></td>
 				<td><a href="https://goo.gl/forms/pq1FIkvxYlrQD8t62" target="_blank">Contact us!</a></td>
 				<td>TBC</td>
-				<td>Hales Room, J7</td>
+				<td>TBC</td>
 			</tr>
 			<!-- <tr>
 				<td><b>20/11/2017</b></td>

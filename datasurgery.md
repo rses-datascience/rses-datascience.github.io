@@ -34,7 +34,7 @@ nav-menu: true
 				<td><b>26/09/2017</b></td>
 				<td>David Heslop, Oscar Branson</td>
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb" target="_blank">Introduction</a></td>
-				<td><b>RINGWOOD ROOM, J4</b></td>
+				<td>Ringwood Room, J4</td>
 			</tr>
 			<tr>
 				<td><b>09/10/2017</b></td>

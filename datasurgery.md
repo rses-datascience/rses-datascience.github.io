@@ -50,21 +50,21 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td><b>06/11/2017</b></td>
+				<td>Cameron O'Neill</td>
+				<td>Data aggregation, interpolation/gridding and weighted averages.</td>
+				<td>TBC</td>
+			</tr>
+			<tr>
+				<td><b>20/11/2017</b></td>
 				<td><a href="https://goo.gl/forms/pq1FIkvxYlrQD8t62" target="_blank">Contact us!</a></td>
 				<td>TBC</td>
 				<td>TBC</td>
 			</tr>
 			<!-- <tr>
-				<td><b>20/11/2017</b></td>
-				<td>TBC</td>
-				<td>TBC</td>
-				<td>Hales Room, J7</td>
-			</tr> -->
-			<!-- <tr>
 				<td><b></b></td>
 				<td></td>
 				<td></td>
-				<td>Hales Room, J7</td>
+				<td></td>
 			</tr> -->
 		</table>
 		<p> If you have an idea for a future surgery, please get in touch! You can fill out <a href="https://goo.gl/forms/pq1FIkvxYlrQD8t62" target="_blank"> this form</a>, email us, or find us around the department.</p>

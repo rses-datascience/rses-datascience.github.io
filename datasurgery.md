@@ -45,7 +45,7 @@ nav-menu: true
 			<tr style="font-weight:bold">
 				<td><b>23/11/2017</b></td>
 				<td>Jessica Amies</td>
-				<td>Uncertainties in model inputs/outputs.</td>
+				<td>Uncertainties in models, sensitivity analysis.</td>
 				<td>Seminar Room, J1</td>
 			</tr>
 			<tr>

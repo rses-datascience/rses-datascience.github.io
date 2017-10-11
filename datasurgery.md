@@ -42,11 +42,11 @@ nav-menu: true
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb" target="_blank">Matching complex profiles ("wiggle matching")</a></td>
 				<td>Hales Room, J7</td>
 			</tr>
-			<tr>
+			<tr style="font-weight:bold">
 				<td><b>23/11/2017</b></td>
 				<td>Jessica Amies</td>
 				<td>Uncertainties in model inputs/outputs.</td>
-				<td>TBC</td>
+				<td>Seminar Room, J1</td>
 			</tr>
 			<tr>
 				<td><b>06/11/2017</b></td>

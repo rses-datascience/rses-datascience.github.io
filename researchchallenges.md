@@ -24,9 +24,9 @@ nav-menu: true
 		</header>
 		<p> <b>Forums are at 11:30 am on Mondays in Hales Seminar Room, Jaeger 7, ANU Campus <br>(please pay attention at the schedule for any exception)</b></p>
 		<p> <b>18/09/2017</b> - Machine Learning Noob and Mid Ocean Ridge Basalts: Fight! - Charles Le Losq (RSES-ANU) </p>
-		<p> <b>03/10/2017</b> - What is this 'machine learning' thing, anyway? - Andrew Valentine (RSES-ANU)</p>
-		<p> <b>16/10/2017</b> - Fitting curves to data: old and new - Malcolm Sambridge (RSES-ANU)</p>
-		<p> <b>30/10/2017</b> - Why Raman Spectra are like Dogs or Cats? - Charles Le Losq (RSES-ANU)</p>
-		<p> <b>13/11/2017</b> - Smoothing surfaces - David Heslop (RSES-ANU)</p>
+		<p> <b>16/10/2017</b> - What is this 'machine learning' thing, anyway? - Andrew Valentine (RSES-ANU)</p>
+		<p> <b>30/10/2017</b> - Fitting curves to data: old and new - Malcolm Sambridge (RSES-ANU)</p>
+		<p> <b>13/11/2017</b> - Why Raman Spectra are like Dogs or Cats? - Charles Le Losq (RSES-ANU)</p>
+		<p> <b>27/11/2017</b> - Smoothing surfaces - David Heslop (RSES-ANU)</p>
 	</div>
 </section>

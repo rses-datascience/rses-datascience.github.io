@@ -24,7 +24,7 @@ During the discussion time, the ["SciKit Learn documentation"](http://scikit-lea
 
 ![Figure 1](https://rses-datascience.github.io/rses-datascience.github.io/assets/images/ml_map_skl.png)
 
-*Figure 1: Visual flowchart suggesting interesting algorithms that can be used for particular problems. See the ["SciKit Learn website"](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) for an interactive version of this chart. Image reproduced from http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html.
+*Figure 1: Visual flowchart suggesting interesting algorithms that can be used for particular problems. See the ["SciKit Learn website"](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) for an interactive version of this chart. Image reproduced from http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html.*
 
 This Data Science Research Forum was thus a success, with so many people showing up that we had to switch to a bigger room. We invite anybody from RSES and ANU to come and discuss Data Science with us about Machine Learning. In two weeks, Malcolm Sambridge will discuss interpolation and related problems. See you there!
 

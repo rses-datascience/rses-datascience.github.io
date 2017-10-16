@@ -69,14 +69,34 @@ nav-menu: true
 				<h3>General libraries</h3>
 					<h4><a href="http://scikit-learn.org/">Scikit-learn</a></h4>
 						<p>Python library with a lot of different algorithms for data analysis and machine-learning treatment. Used in Spectra.jl (see below), for instance.</p>
+					<h4><a href="https://orange.biolab.si/">Orange</a></h4>
+						<p>Orange is an open source visual programming software for data mining and visualization.</p>	
+					<h4><a href="http://www.shogun-toolbox.org/">Shogun</a></h4>
+						<p>Shogun is an open source C++ library for machine learning.</p>
+					<h4><a href="http://dlib.net/ml.html">Dlib C++</a></h4>
+						<p>Dlib C++ is an open source C++ library for machine learning.</p>
+					<h4><a href="http://mlpack.org/">mlpack</a></h4>
+						<p>mlpack is an open source C++ library for machine learning.</p>
+					<h4><a href="https://www.tensorflow.org/">TensorFlow</a></h4>
+						<p>TensorFlow is an open source software library developped by Google for machine learning.</p>
+					<h4><a href="http://deeplearning.net/software/theano/">Theano</a></h4>
+						<p>Theano is an open source Python library developped by the Lisa Lab in Montreal for machine learning, and particularly aimed at deep learning.</p>
+					<h4><a href="http://torch.ch/">Torch</a></h4>
+						<p>Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first.</p>
+				<h3>Deep Learning</h3>
 					<h4><a href="https://keras.io/">Keras</a></h4>
 						<p>Keras is a deep-learning library for Theano and TensorFlow, two open source libraries for numerical computations. Keras is focused on easy implementation of deep neural networks.</p>
+					<h4><a href="https://lasagne.readthedocs.io/en/latest/">Lasagne</a></h4>
+						<p>Lasagne is a lightweight library to build and train neural networks in Theano.</p>
+					<h4><a href="https://github.com/pluskid/Mocha.jl">Mocha</a></h4>
+						<p>Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe.</p>
+					<h4><a href="http://caffe.berkeleyvision.org/gathered/examples/cpp_classification.html">Caffe</a></h4>
+						<p>Caffe is a Deep Learning framework in C++.</p>
 				<h3>Spectroscopy</h3>
 					<h4><a href="http://charlesll.github.io/Spectra.jl/">Spectra.jl</a></h4>
 						<p>Spectra.jl is a library aimed at helping spectroscopic (Raman, Infrared, Nuclear Magnetic Resonance, XAS...) data treatment written in Julia.</p>
 					<h4><a href="https://charlesll.github.io/gcvspline/">gcvspline</a></h4>
 						<p>gcvspline is a small Python package wrapping the gcvspl.f FORTRAN library.</p>
-					</div>
 				<h3>Geochemistry</h3>
 					<h4><a href="https://github.com/charlesll/ViscoAG">ViscoAG</a></h4>
 						<p>ViscoAG is a software written in Julia that allows calculating the viscosity of silicate melts based on the knowledge of their structure.</p>

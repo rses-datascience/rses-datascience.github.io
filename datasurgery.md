@@ -43,7 +43,7 @@ nav-menu: true
 				<td>Hales Room, J7</td>
 			</tr>
 			<tr style="font-weight:bold">
-				<td><b>23/11/2017</b></td>
+				<td><b>23/10/2017</b></td>
 				<td>Jessica Amies</td>
 				<td>Uncertainties in models, sensitivity analysis.</td>
 				<td>Seminar Room, J1</td>
@@ -56,7 +56,19 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td><b>20/11/2017</b></td>
-				<td><a href="https://goo.gl/forms/pq1FIkvxYlrQD8t62" target="_blank">Contact us!</a></td>
+				<td>Chris Renggli</td>
+				<td>Multi-Dimensional Clustering, Image Analysis</td>
+				<td>TBC</td>
+			</tr>
+			<tr>
+				<td><b>04/12/2017</b></td>
+				<td>Bethany Ellis</td>
+				<td>Spectral / Frequency Analysis</td>
+				<td>TBC</td>
+			</tr>
+			<tr>
+				<td><b>After Christmas...</b></td>
+				<td><a href="mailto:oscar.branson@anu.edu.au,david.heslop@anu.edu.au?subject=Data%20Surgery%20Request">Contact us!</a></td>
 				<td>TBC</td>
 				<td>TBC</td>
 			</tr>
@@ -67,6 +79,7 @@ nav-menu: true
 				<td></td>
 			</tr> -->
 		</table>
-		<p> If you have an idea for a future surgery, please get in touch! You can fill out <a href="https://goo.gl/forms/pq1FIkvxYlrQD8t62" target="_blank"> this form</a>, email us, or find us around the department.</p>
+		<p> If you have an idea for a future surgery, please <a href="mailto:oscar.branson@anu.edu.au,david.heslop@anu.edu.au?subject=Data%20Surgery%20Request"> get in touch!</a>
+		</p>
 	</div>
 </section>

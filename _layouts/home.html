@@ -36,10 +36,17 @@
         <!-- Two -->
         <section id="two">
             <div class="inner">
-                <header class="major">
-                    <h2>The Research School of Earth Science (ANU) Data Science theme</h2>
-                </header>
-                <p>{{ content }}</p>
+                <div class="row">
+                    <div class="6u 12u$(small)">
+                        <h2>About the RSES Data Science theme</h2>
+                        <p> {{ content }} </p>
+                    </div>
+                    <div class="6u$">
+                        <h2>What's On</h2>
+                        {% include Twitter_RSESDataScience.html %}
+                    </div>
+                </div>
+                
                 <ul class="actions">
                     <li><a href="about.html" class="button next">Get Started</a></li>
                 </ul>
@@ -53,3 +60,5 @@
 </body>
 
 </html>
+
+<!-- {% include Twitter_RSESDataScience.html %} -->

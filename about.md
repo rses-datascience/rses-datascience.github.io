@@ -13,39 +13,45 @@ nav-menu: true
 </span>
   <header class="major">
 
-In the 21th numerical century, data science is an central topic. At the Research School of Earth Sciences, the Australian National University, scientists use data science tools for their everyday research and develops new ways at looking at data.
+  <h4>At the Research School of Earth Sciences we use Data Science tools to analyse, visualise and understand complex, real-world data.</h4>
 
-</header>
-  <div class="content">
+  </header>
+  
+  <!-- <div class="content">
 
-{{ page.description }}
+  {{ page.description }}
 
-</div>
+  </div> -->
+
 </div>
 </section>
 
 <div id="main">
-  <section id="one">
-  <div class="inner">
-	<header class="major">
-		<h2>Initiatives</h2>
-	</header>
-	
-	<p>The RSES Data Science theme leads several initiatives with various outreachs. For instance, the Data Surgery sessions aim at providing cutting-edge ressources and data science tools for RSES and ANU scientists. In parallel, the Research Challenges discussion group focus on novel mathetics and machine-learning approaches on geoscience data. The RSES Data Science theme also leads initiatives to generate and foster connections between RSES scientists interested in data sciences and scientists from other institutions and other fields.
-	
-	<header class="major">
-		<h2>Members</h2>
-	</header>
 
-<br><a href="http://rses.anu.edu.au/~malcolm/">Malcolm Sambridge</a>
-<br><a href="http://rses.anu.edu.au/people/david-heslop">David Heslop</a>
-<br><a href="http://rses.anu.edu.au/people/fiona-hibbert">Fiona Hibbert</a>
-<br><a href="http://rses.anu.edu.au/~andrewv/">Andrew Valentine</a>
-<br><a href="https://researchers.anu.edu.au/researchers/wyborn-lai">Lesley Wyborn</a>
-<br><a href="http://rses.anu.edu.au/people/anthony-purcell">Antony Purcell</a>
-<br><a href="http://rses.anu.edu.au/people/charles-le-losq">Charles Le Losq</a>
-<br><a href="http://rses.anu.edu.au/people/oscar-branson">Oscar Branson</a>
-<br><a href="http://www.physics.mun.ca/~jmunroe/">James Munroe</a>
+<section id="one">
+<div class="inner">
+  <header class="major">
+    <h2>Initiatives</h2>
+  </header>
+
+  <p>The RSES Data Science theme leads several initiatives. For example, the <a href="{{ site.baseurl}}{% link datasurgery.md%}">Data Surgery</a> sessions provide a forum for PhD students to discuss and learn about cutting-edge data science tools and resources, and the <a href="{{ site.baseurl}}{% link researchchallenges.md%}">Data Science Research Forum</a> seminars showcase a wide range of data-themed research problems and new tools. The RSES Data Science theme also leads initiatives to generate and foster connections between RSES scientists interested in data sciences and scientists from other institutions and other fields.</p>
+  
+  <header class="major">
+    <h2>Members</h2>
+  </header>
+
+  <table>
+    <tr><td><a href="http://rses.anu.edu.au/~malcolm/">Malcolm Sambridge</a></td></tr>
+    <tr><td><a href="http://rses.anu.edu.au/people/david-heslop">David Heslop</a></td></tr>
+    <tr><td><a href="http://rses.anu.edu.au/people/fiona-hibbert">Fiona Hibbert</a></td></tr>
+    <tr><td><a href="http://rses.anu.edu.au/~andrewv/">Andrew Valentine</a></td></tr>
+    <tr><td><a href="https://researchers.anu.edu.au/researchers/wyborn-lai">Lesley Wyborn</a></td></tr>
+    <tr><td><a href="http://rses.anu.edu.au/people/anthony-purcell">Antony Purcell</a></td></tr>
+    <tr><td><a href="http://rses.anu.edu.au/people/charles-le-losq">Charles Le Losq</a></td></tr>
+    <tr><td><a href="http://rses.anu.edu.au/people/oscar-branson">Oscar Branson</a></td></tr>
+    <tr><td><a href="http://www.physics.mun.ca/~jmunroe/">James Munroe</a></td></tr>
+  </table>
 
 </div>
 </section>
+</div>

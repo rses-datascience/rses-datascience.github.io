@@ -33,22 +33,22 @@ nav-menu: true
 			<tr>
 				<td><b>26/09/2017</b></td>
 				<td>David Heslop, Oscar Branson</td>
-				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb" target="_blank">Introduction</a></td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb" target="_blank">Introduction.</a></td>
 				<td>Ringwood Room, J4</td>
 			</tr>
 			<tr>
 				<td><b>09/10/2017</b></td>
 				<td>Katie Harazin</td>
-				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb" target="_blank">Matching complex profiles ("wiggle matching")</a></td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/02_ProfileMatching/02_ProfileMatching.ipynb" target="_blank">Matching complex profiles ("wiggle matching").</a></td>
 				<td>Hales Room, J7</td>
 			</tr>
-			<tr style="font-weight:bold">
+			<tr>
 				<td><b>23/10/2017</b></td>
 				<td>Jessica Amies</td>
-				<td>Uncertainties in models, sensitivity analysis.</td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/03_SensitivityAnalysis/03_SensitivityAnalysis.ipynb">Uncertainties in models, sensitivity analysis.</a></td>
 				<td>Seminar Room, J1</td>
 			</tr>
-			<tr>
+			<tr style="font-weight:bold">
 				<td><b>06/11/2017</b></td>
 				<td>Cameron O'Neill</td>
 				<td>Data aggregation, interpolation/gridding and weighted averages.</td>

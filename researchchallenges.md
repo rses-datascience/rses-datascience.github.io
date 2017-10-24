@@ -42,13 +42,13 @@ nav-menu: true
 				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/09/16/andrewvalentine.html" target="_blank">What is this 'machine learning' thing, anyway?</a></td>
 				<td>Jaeger seminar room, J1</td>
 			</tr>
-			<tr>
+			<tr style="font-weight:bold">
 				<td><b>30/10/2017</b></td>
 				<td>Malcolm Sambridge (RSES-ANU)</td>
 				<td>Fitting lines and curves to data… Its like running with scissors.</td>
 				<td>TBC</td>
 			</tr>
-			<tr style="font-weight:bold">
+			<tr>
 				<td><b>13/11/2017</b></td>
 				<td>Charles Le Losq (RSES-ANU)</td>
 				<td>Why Raman Spectra are like Dogs or Cats?</td>

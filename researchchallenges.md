@@ -22,11 +22,56 @@ nav-menu: true
 		<header class="minor">
 			<h2>Schedule</h2>
 		</header>
-		<p> <b>Forums are at 11:30 am on Mondays in Hales Seminar Room, Jaeger 7, ANU Campus <br>(please pay attention at the schedule for any exception)</b></p>
-		<p> <b>18/09/2017</b> - Machine Learning Noob and Mid Ocean Ridge Basalts: Fight! - Charles Le Losq (RSES-ANU) </p>
-		<p> <b>16/10/2017</b> - What is this 'machine learning' thing, anyway? - Andrew Valentine (RSES-ANU)</p>
-		<p> <b>30/10/2017</b> - Fitting curves to data: old and new - Malcolm Sambridge (RSES-ANU)</p>
-		<p> <b>13/11/2017</b> - Why Raman Spectra are like Dogs or Cats? - Charles Le Losq (RSES-ANU)</p>
-		<p> <b>27/11/2017</b> - Smoothing surfaces - David Heslop (RSES-ANU)</p>
+		<p> <b>Forums are at 11:30 am on Mondays on the ANU Campus <br>(please pay attention at the schedule for any exception/change)</b></p>
+		<table>
+			<tr>
+				<td><b>Date</b></td>
+				<td><b>Who</b></td>
+				<td><b>What</b></td>
+				<td><b>Where</b></td>
+			</tr>
+			<tr>
+				<td><b>18/09/2017</b></td>
+				<td>Charles Le Losq (RSES-ANU)</td>
+				<td>Machine Learning Noob and Mid Ocean Ridge Basalts: Fight! </td>
+				<td>Hales Room, J7</td>
+			</tr>
+			<tr>
+				<td><b>16/10/2017</b></td>
+				<td>Andrew Valentine (RSES-ANU)</td>
+				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/09/16/andrewvalentine.html" target="_blank">What is this 'machine learning' thing, anyway?</a></td>
+				<td>Jaeger seminar room, J1</td>
+			</tr>
+			<tr>
+				<td><b>30/10/2017</b></td>
+				<td>Malcolm Sambridge (RSES-ANU)</td>
+				<td>Fitting lines and curves to data… Its like running with scissors.</td>
+				<td>TBC</td>
+			</tr>
+			<tr style="font-weight:bold">
+				<td><b>13/11/2017</b></td>
+				<td>Charles Le Losq (RSES-ANU)</td>
+				<td>Why Raman Spectra are like Dogs or Cats?</td>
+				<td>TBC</td>
+			</tr>
+			<tr>
+				<td><b>27/11/2017</b></td>
+				<td>David Heslop (RSES-ANU)</td>
+				<td>Smoothing surfaces</td>
+				<td>TBC</td>
+			</tr>
+			<tr>
+				<td><b>After Christmas...</b></td>
+				<td><a href="mailto:charles.lelosq@anu.edu.au,andrew.valentine@anu.edu.au?subject=Data%Forum%20Request">Contact us!</a></td>
+				<td>TBC</td>
+				<td>TBC</td>
+			</tr>
+			<!-- <tr>
+				<td><b></b></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr> -->
+		</table>
 	</div>
 </section>

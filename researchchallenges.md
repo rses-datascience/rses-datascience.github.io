@@ -46,7 +46,7 @@ nav-menu: true
 				<td><b>30/10/2017</b></td>
 				<td>Malcolm Sambridge (RSES-ANU)</td>
 				<td>Fitting lines and curves to data… Its like running with scissors.</td>
-				<td>TBC</td>
+				<td>Jaeger seminar room, J1</td>
 			</tr>
 			<tr>
 				<td><b>13/11/2017</b></td>

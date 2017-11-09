@@ -9,13 +9,13 @@ On Monday the 30th of October, Malcolm Sambridge (RSES-ANU) gave a talk about fi
 
 A good illustration of the approach presented by Malcolm is given in Figure 1, where data points are represented and fitted with polynomials functions with orders = 0, 1, 2 and 3 (constant, linear, quadratic, cubic). It is difficult to decide, only on the basis of the fits, which model is best supported by the data.
 
-<img src="https://rses-datascience.github.io/rses-datascience.github.io/assets/images/RJ_MCMC_curves.png" alt="Drawing" style="width: 1000px;"/>
+<img src="https://rses-datascience.github.io/rses-datascience.github.io/assets/images/RJ_MCMC_curves.png" alt="Drawing" style="width: 800px;"/>
 
 *Figure 1: An example of arbitrary datapoints fitted by constant (k=1), linear (k=2), quadratic (k=3) and cubic (k=4) polynomial models. Source: Sambridge et al., Geophys. J. Int. (2006) 167, 528–542.*
 
 To solve such kind of problem, we can used the approach described by Malcolm is called Trans-Dimentional Markov-Chain Monte Carlo (MCMC) inversion. It can be applied to fit a line to a set of points, or very complex models with hundreds of dimensions. Practically speaking, the user provides a set of possible models to the Trans-D MCMC algorithm. This approach will provide an answer regarding the critical question: which model is best supported by the data? The MCMC approach samples a range of possible solutions (Fig. 2), rather than providing a unique best fit. At first, this may seem awkward to those used to perform the tranditional least-square approach, but, in turns, this is a robust method that provides reliable uncertainties on estimated parameters.
 
-<img src="https://rses-datascience.github.io/rses-datascience.github.io/assets/images/RJ_MCMC_models.png" alt="Drawing" style="width: 1000px;"/>
+<img src="https://rses-datascience.github.io/rses-datascience.github.io/assets/images/RJ_MCMC_models.png" alt="Drawing" style="width: 800px;"/>
 
 *Figure 2: MCMC fits of the data with (a) a constant model, (b) a linear model, (c) a quadratic model, (d) a cubic model, (e) their combination, and (f) the Reversible-Jump MCMC approach that test different models while performing the MCMC run. Source: Sambridge et al., Geophys. J. Int. (2006) 167, 528–542.*
 

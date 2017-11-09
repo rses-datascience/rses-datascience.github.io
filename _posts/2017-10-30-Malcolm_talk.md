@@ -25,7 +25,7 @@ The Trans-D MCMC approach is key to sample the solutions of complex problems tha
 
 To illustrate the principle of the Trans-D MCMC approach, we prepared a [Jupyter Notebook in Python](https://nbviewer.jupyter.org/github/rses-datascience/GeneralResources/blob/master/Notebooks/RJMCMC_example.ipynb) illustrating a example of fitting a curve to a dataset. Is it linear, quadratic, cubic... ? Let's let the code decide! Figure 3 shows a few example of possible models and how they fit the data.
 
-<img src="https://rses-datascience.github.io/rses-datascience.github.io/assets/images/MCMC_example.gif" width = 800px />
+![](https://rses-datascience.github.io/rses-datascience.github.io/assets/images/MCMC_example.gif)
 
 *Figure 3: Example of MCMC fits of noisy data with polynomial functions with the Reversible-Jump MCMC algorithm.*
 

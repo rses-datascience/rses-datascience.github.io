@@ -31,4 +31,4 @@ To illustrate the principle of the Trans-D MCMC approach, we prepared a [Jupyter
 
 The code being the example is based on the Reversible-Jump MCMC library available on iEarth and developped at the RSES. The talk of Malcolm will further be available online soon, for those who missed it and would like to catch up with this cutting edge technic developped at the Research School of Earth Sciences!
 
-[post written by Charles Le Losq]
+*Post written by Charles Le Losq, posted 9/11/2017*

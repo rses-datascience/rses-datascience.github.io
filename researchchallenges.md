@@ -11,8 +11,12 @@ nav-menu: true
 		<header class="major">
 			<h1>Data Science Research Forums</h1>
 		</header>
-		<p>The Data Science Research Forums welcome seminars, tutorials, and sharing about research in data science in relationship with Earth sciences. The aim of this initiative is to foster and to allow easy inter-disciplinary exchanges of ideas that can lead to improving existing approaches and developping new tools for use in Earth sciences problems.</p>
-		<p>The group meets forthnightly.</p>
+		<p>
+			The Data Science Research Forums welcome seminars, tutorials, and sharing about research in data science in relationship with Earth sciences. The aim of this initiative is to foster and to allow easy inter-disciplinary exchanges of ideas that can lead to improving existing approaches and developping new tools for use in Earth sciences problems.
+		</p>
+		<p>
+			The group meets forthnightly.
+		</p>
 		<header class="minor">
 			<h2>Organizers</h2>
 		</header>

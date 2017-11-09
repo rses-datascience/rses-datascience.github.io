@@ -23,4 +23,4 @@ Such approach may be very interesting, for instance, in the case of image recons
 
 The approaches presented by Malcolm highlight a turning point in using mathematics for solving Earht science problems. Exploiting the sparsity of existing and new geoscience datasets may lead to observations that were previously impossible. As a result, new discoveries related to the exploitation of sparsity can be expected, particularly in domains such as, for instance, seismic tomography or geochemistry.
 
-*Post written by Charles Le Losq.*
+*Post written by Charles Le Losq, posted 7/07/2017, last updated 9/11/2017*

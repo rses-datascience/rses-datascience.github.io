@@ -45,7 +45,7 @@ nav-menu: true
 			<tr>
 				<td><b>30/10/2017</b></td>
 				<td>Malcolm Sambridge (RSES-ANU)</td>
-				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/10/30/Malcolm_talk.html" target="_blank">Fitting lines and curves to data… Its like running with scissors.</td>
+				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/10/30/Malcolm_talk.html" target="_blank">Fitting lines and curves to data… Its like running with scissors.</a></td>
 				<td>Jaeger seminar room, J1</td>
 			</tr>
 			<tr style="font-weight:bold">

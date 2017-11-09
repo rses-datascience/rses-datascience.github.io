@@ -11,8 +11,12 @@ nav-menu: true
 		<header class="major">
 			<h1>Data Science Research Forums</h1>
 		</header>
-		<p>The Data Science Research Forums welcome seminars, tutorials, and sharing about research in data science in relationship with Earth sciences. The aim of this initiative is to foster and to allow easy inter-disciplinary exchanges of ideas that can lead to improving existing approaches and developping new tools for use in Earth sciences problems.</p>
-		<p>The group meets forthnightly.</p>
+		<p>
+			The Data Science Research Forums welcome seminars, tutorials, and sharing about research in data science in relationship with Earth sciences. The aim of this initiative is to foster and to allow easy inter-disciplinary exchanges of ideas that can lead to improving existing approaches and developping new tools for use in Earth sciences problems.
+		</p>
+		<p>
+			The group meets forthnightly.
+		</p>
 		<header class="minor">
 			<h2>Organizers</h2>
 		</header>
@@ -45,7 +49,7 @@ nav-menu: true
 			<tr>
 				<td><b>30/10/2017</b></td>
 				<td>Malcolm Sambridge (RSES-ANU)</td>
-				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/10/30/Malcolm_talk.html" target="_blank">Fitting lines and curves to data… Its like running with scissors.</td>
+				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/10/30/Malcolm_talk.html" target="_blank">Fitting lines and curves to data… Its like running with scissors.</a></td>
 				<td>Jaeger seminar room, J1</td>
 			</tr>
 			<tr style="font-weight:bold">

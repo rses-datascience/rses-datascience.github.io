@@ -11,7 +11,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Research tools</h1>
 		</header>
-		<p>In this section are listed the different tools used at RSES for handling and treating data.</p>
+		<p>In this section are listed the different tools used at RSES for handling and treating data. We further advise taking a tour of the [iEarth website](http://www.iearth.org.au) for further details on the tools developped at RSES.</p>
 		<header class="major">
 			<h2>Data confinement</h2>
 		</header>
@@ -83,6 +83,30 @@ nav-menu: true
 						<p>Theano is an open source Python library developped by the Lisa Lab in Montreal for machine learning, and particularly aimed at deep learning.</p>
 					<h4><a href="http://torch.ch/">Torch</a></h4>
 						<p>Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first.</p>
+				<h3>Optimisation - Traditional</h3>
+					<h4><a href="https://docs.scipy.org/doc/scipy/reference/optimize.html">Scipy Optimise</a></h4>
+						<p>The Scipy Python library contains various optimisation algorithms for solving linear and non-linear problems. </p>
+					<h4><a href="http://www.juliaopt.org">JuliaOpt libraries</a></h4>
+						<p>The JuliaOpt GitHub organization is home to a number of optimization-related packages written in Julia.</p>	
+					<h4><a href="https://au.mathworks.com/products/optimization.html">Matlab Optimisation Toolbox (non free)</a></h4>
+						<p>The Matlab optimisation toolbox contains various algorithms for performing optimisation and model fitting.</p>
+					<h4><a href="https://www.tensorflow.org/">TensorFlow</a></h4>
+						<p>TensorFlow also allows to write optimisation problems, see their examples!</p>
+					<h4><a href="http://deeplearning.net/software/theano/">Theano</a></h4>
+						<p>Theano is an open source Python library developped by the Lisa Lab in Montreal for machine learning, and particularly aimed at deep learning.</p>
+					<h4><a href="http://torch.ch/">Torch</a></h4>
+						<p>Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first.</p>
+				<h3>Optimisation - Probabilistic</h3>
+					<h4><a href="http://www.iearth.org.au/codes/rj-MCMC/">RJ-MCMC</a></h4>
+						<p>Reversible-Jump Markov Chain Monte Carlo library developped at the Research School of Earth Sciences. See the Jupyter Notebook example [here](https://nbviewer.jupyter.org/github/rses-datascience/GeneralResources/blob/master/Notebooks/RJMCMC_example.ipynb)!</p>
+					<h4><a href="http://emcee.readthedocs.io/en/stable/">emcee - The MCMC Hammer</a></h4>
+						<p>emcee is an MIT licensed pure-Python implementation of Goodman & Weare’s Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler.</p>
+					<h4><a href="http://docs.pymc.io/notebooks/getting_started">PyMC3</a></h4>
+						<p>PyMC3 is a Python library allowing to perform MCMC calculations in Python.</p>
+					<h4><a href="http://mambajl.readthedocs.io/en/latest/">Mamba</a></h4>
+						<p>Mamba is an open platform for the implementation and application of MCMC methods to perform Bayesian analysis in julia.</p>
+					<h4><a href="http://mc-stan.org">Stan</a></h4>
+						<p>Stan® is a state-of-the-art platform for statistical modeling and high-performance statistical computation.</p>
 				<h3>Deep Learning</h3>
 					<h4><a href="https://keras.io/">Keras</a></h4>
 						<p>Keras is a deep-learning library for Theano and TensorFlow, two open source libraries for numerical computations. Keras is focused on easy implementation of deep neural networks.</p>

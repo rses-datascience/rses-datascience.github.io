@@ -113,6 +113,8 @@ nav-menu: true
 				<h3>Spectroscopy</h3>
 					<h4><a href="http://charlesll.github.io/Spectra.jl/">Spectra.jl</a></h4>
 						<p>Spectra.jl is a library aimed at helping spectroscopic (Raman, Infrared, Nuclear Magnetic Resonance, XAS...) data treatment written in Julia.</p>
+					h4><a href="https://github.com/charlesll/rampy/">RamPy</a></h4>
+						<p>Rampy is a Python library for helping treating spectroscopic (Raman, Infrared, Nuclear Magnetic Resonance, XAS...) data.</p>
 					<h4><a href="https://charlesll.github.io/gcvspline/">gcvspline</a></h4>
 						<p>gcvspline is a small Python package wrapping the gcvspl.f FORTRAN library.</p>
 				<h3>Geochemistry</h3>

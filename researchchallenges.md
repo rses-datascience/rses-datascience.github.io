@@ -52,17 +52,17 @@ nav-menu: true
 				<td><a href="https://rses-datascience.github.io/rses-datascience.github.io/2017/10/30/Malcolm_talk.html" target="_blank">Fitting lines and curves to data… Its like running with scissors.</a></td>
 				<td>Jaeger seminar room, J1</td>
 			</tr>
-			<tr style="font-weight:bold">
+			<tr>
 				<td><b>13/11/2017</b></td>
 				<td>Charles Le Losq (RSES-ANU)</td>
 				<td>Why Raman Spectra are like Dogs or Cats?</td>
 				<td>Jaeger seminar room, J1</td>
 			</tr>
-			<tr>
+			<tr style="font-weight:bold">
 				<td><b>27/11/2017</b></td>
 				<td>David Heslop (RSES-ANU)</td>
 				<td>Smoothing surfaces</td>
-				<td>TBC</td>
+				<td>Jaeger seminar room, J1</td>
 			</tr>
 			<tr>
 				<td><b>After Christmas...</b></td>

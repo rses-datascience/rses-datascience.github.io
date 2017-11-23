@@ -90,15 +90,9 @@ nav-menu: true
 						<p>The JuliaOpt GitHub organization is home to a number of optimization-related packages written in Julia.</p>	
 					<h4><a href="https://au.mathworks.com/products/optimization.html">Matlab Optimisation Toolbox (non free)</a></h4>
 						<p>The Matlab optimisation toolbox contains various algorithms for performing optimisation and model fitting.</p>
-					<h4><a href="https://www.tensorflow.org/">TensorFlow</a></h4>
-						<p>TensorFlow also allows to write optimisation problems, see their examples!</p>
-					<h4><a href="http://deeplearning.net/software/theano/">Theano</a></h4>
-						<p>Theano is an open source Python library developped by the Lisa Lab in Montreal for machine learning, and particularly aimed at deep learning.</p>
-					<h4><a href="http://torch.ch/">Torch</a></h4>
-						<p>Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first.</p>
 				<h3>Optimisation - Probabilistic</h3>
 					<h4><a href="http://www.iearth.org.au/codes/rj-MCMC/">RJ-MCMC</a></h4>
-						<p>Reversible-Jump Markov Chain Monte Carlo library developped at the Research School of Earth Sciences. See the Jupyter Notebook example [here](https://nbviewer.jupyter.org/github/rses-datascience/GeneralResources/blob/master/Notebooks/RJMCMC_example.ipynb)!</p>
+						<p>Reversible-Jump Markov Chain Monte Carlo library developped at the Research School of Earth Sciences. See the Jupyter Notebook example <a href="https://nbviewer.jupyter.org/github/rses-datascience/GeneralResources/blob/master/Notebooks/RJMCMC_example.ipynb ">here<\a>!</p>
 					<h4><a href="http://emcee.readthedocs.io/en/stable/">emcee - The MCMC Hammer</a></h4>
 						<p>emcee is an MIT licensed pure-Python implementation of Goodman & Weare’s Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler.</p>
 					<h4><a href="http://docs.pymc.io/notebooks/getting_started">PyMC3</a></h4>

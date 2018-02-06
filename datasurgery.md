@@ -48,26 +48,32 @@ nav-menu: true
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/03_SensitivityAnalysis/03_SensitivityAnalysis.ipynb">Uncertainties in models, sensitivity analysis.</a></td>
 				<td>Seminar Room, J1</td>
 			</tr>
-			<tr style="font-weight:bold">
+			<tr>
 				<td><b>06/11/2017</b></td>
 				<td>Cameron O'Neill</td>
 				<td>Data aggregation, interpolation/gridding and weighted averages.</td>
-				<td>TBC</td>
+				<td>Hales Room, J7</td>
 			</tr>
 			<tr>
 				<td><b>20/11/2017</b></td>
 				<td>Chris Renggli</td>
-				<td>Multi-Dimensional Clustering, Image Analysis</td>
-				<td>TBC</td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/05_ImagesClustering/05_ImagesClustering.ipynb">Multi-Dimensional Clustering, Image Analysis</a></td>
+				<td>Hales Room, J7</td>
 			</tr>
 			<tr>
-				<td><b>04/12/2017</b></td>
+				<td><b>06/02/2018</b></td>
+				<td>Pat Carr</td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/06_MonteCarlo/06_MonteCarloUncertainty.ipynb">Monte Carlo for Uncertainty Estimation</a></td>
+				<td>Hales Room, J7</td>
+			</tr>
+			<tr style="font-weight:bold">
+				<td><b>19/02/2018</b></td>
 				<td>Bethany Ellis</td>
-				<td>Spectral / Frequency Analysis</td>
-				<td>TBC</td>
+				<td>Spectral / Frequency Analysis, Wavelet analysis</td>
+				<td>Hales Room, J7</td>
 			</tr>
 			<tr>
-				<td><b>After Christmas...</b></td>
+				<td><b>The future...</b></td>
 				<td><a href="mailto:oscar.branson@anu.edu.au,david.heslop@anu.edu.au?subject=Data%20Surgery%20Request">Contact us!</a></td>
 				<td>TBC</td>
 				<td>TBC</td>

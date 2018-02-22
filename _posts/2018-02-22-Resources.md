@@ -11,15 +11,15 @@ During the first talk, Paul Davidson (RSES IT Manager) outlined the existing fac
 Those presentations were extremely helpful as they rightly highlighted all infrastructures that are available to RSES ANU staffs and students. All the presentations are available in the [RSES General Resources Github repository](https://github.com/rses-datascience/GeneralResources) (<= click!), make sure to check them out! 
 
 We would like to warmly thank the organisers of this very helpful seminar series:
--Paul Davidson
--Julia Martin 
--Dr. Lesley Wyborn
+- Paul Davidson
+- Julia Martin 
+- Dr. Lesley Wyborn
 
 ... and the speakers for their fantastic talks:
--Paul Davidson
--Dr. Lesley Wyborn
--Dr. Ben Evans
--Keith Russell 
--Elke Dawson
+- Paul Davidson
+- Dr. Lesley Wyborn
+- Dr. Ben Evans
+- Keith Russell 
+- Elke Dawson
 
 *Post by Charles Le Losq and Lesley Wyborn, posted 22/02/2018*

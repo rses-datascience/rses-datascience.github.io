@@ -1,7 +1,8 @@
 ---
 layout: post
 title: RSES Data Science Website running
-description: Data science news
+description: Announcement
+categories: blog
 image:
 ---
 

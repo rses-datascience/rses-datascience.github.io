@@ -1,7 +1,8 @@
 ---
 layout: post
 title: RSES Data and Computational Resources for Research seminar
-description: Data Science news
+description: Resources
+categories: blog
 ---
 
 The Data and Computational Resources for Research seminar took place at RSES on Thursday the 22nd of February, and was organised as part of the Data Science Research Theme. After an introduction by RSES Director Prof. Steve Eggins, Dr. Lesley Wyborn (Adjunct Fellow, ANU) gave an overview of the seminars that aimed at providing information about the computational and data resources available at RSES, and more broadly ANU, for RSES staffs and students.

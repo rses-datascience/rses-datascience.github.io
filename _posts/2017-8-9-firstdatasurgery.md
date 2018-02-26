@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Data Surgeries Are Go!
-description: Data Science News
+description: Announcement
+categories: blog
 image: 
 ---
 

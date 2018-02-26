@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What is machine learning?
-description: Data Science news
+description: Data Seminar Write-Up
+categories: blog
 image:
 ---
 

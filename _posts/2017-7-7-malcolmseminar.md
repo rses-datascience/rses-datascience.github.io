@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Story of Nothing
-description: Data Science news
+description: Data Seminar Write-Up
+categories: blog
 image:
 ---
 

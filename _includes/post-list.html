@@ -1,0 +1,44 @@
+<!-- Table Layout -->
+<table id="posttable">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for post in site.categories.blog %}
+    {% if site.tiles-source == 'posts' %}
+        <tr href="{{ post.url  | relative_url }}" class="link">
+                <th>
+                    {{ post.date  | date: "%B %d, %Y"}}
+                </th>
+                <td>
+                    <a href="{{ post.url  | relative_url }}" class="link">{{ post.title }} </a>
+                </td>
+                <td>
+                    {{ post.description }}
+                </td>                    
+        </tr>
+    {% endif %}
+    {% endfor %}
+    </tbody>
+</table>
+
+<!-- Tile Layout -->
+<!-- <section id="one" class="tiles">
+    {% for post in site.categories.blog %}
+    {% if site.tiles-source == 'posts' %}
+        <article>
+                <span class="image">
+                        <img src="{{ post.image }}" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+                        <p>{{ post.description }}</p>
+                </header>
+        </article>
+    {% endif %}
+    {% endfor %}
+</section> -->

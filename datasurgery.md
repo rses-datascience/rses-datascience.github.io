@@ -17,7 +17,6 @@ nav-menu: true
 		</header>
 		<a href="http://rses.anu.edu.au/people/david-heslop">David Heslop</a>,
 		<a href="http://rses.anu.edu.au/people/oscar-branson">Oscar Branson</a>,
-		<a href="http://www.physics.mun.ca/~jmunroe/">James Munroe</a>
 		<p></p>
 		<header class="minor">
 			<h2>Schedule</h2>

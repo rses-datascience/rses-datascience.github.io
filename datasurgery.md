@@ -66,10 +66,16 @@ nav-menu: true
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/06_MonteCarlo/06_MonteCarloUncertainty.ipynb">Monte Carlo for Uncertainty Estimation</a></td>
 				<td>Hales Room, J7</td>
 			</tr>
-			<tr style="font-weight:bold">
+			<tr>
 				<td><b>19/02/2018</b></td>
 				<td>Bethany Ellis</td>
-				<td>Spectral / Frequency Analysis, Wavelet analysis</td>
+				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/07_Wavelets/07_Wavelets.ipynb">Spectral / Frequency Analysis, Wavelet analysis</a></td>
+				<td>Hales Room, J7</td>
+			</tr>
+			<tr style="font-weight:bold">
+				<td><b>05/03/2018</b></td>
+				<td>Jo Stephenson</td>
+				<td>Averaging unevenly spaced data.</td>
 				<td>Hales Room, J7</td>
 			</tr>
 			<tr>

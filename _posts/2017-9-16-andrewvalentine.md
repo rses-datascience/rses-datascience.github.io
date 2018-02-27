@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is machine learning?
-description: Data Seminar Write-Up
+description: Data Seminar
 categories: blog
 image:
 ---

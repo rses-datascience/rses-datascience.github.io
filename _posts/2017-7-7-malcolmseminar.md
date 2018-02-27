@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Story of Nothing
-description: Data Seminar Write-Up
+description: Data Seminar
 categories: blog
 image:
 ---

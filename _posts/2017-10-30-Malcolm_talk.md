@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fitting lines and curves to data… Its like running with scissors.
-description: Data Seminar Write-Up
+description: Data Seminar
 categories: blog
 image:
 ---

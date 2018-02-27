@@ -8,6 +8,8 @@
                 <header class="major">
                         <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
                         <p>{{ post.description }}</p>
+                        {% assign readtime = post.content | number_of_words | divided_by:180 %}
+                        <p><i class="fa fa-clock-o"></i> {% if readtime <= 1 %}<1 min{% else %}{{ readtime }} min{% endif %}</p>
                 </header>
         </article>
 	{% endif %}

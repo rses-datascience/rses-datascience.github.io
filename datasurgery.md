@@ -74,7 +74,7 @@ nav-menu: true
 			<tr style="font-weight:bold">
 				<td><b>05/03/2018</b></td>
 				<td>Jo Stephenson</td>
-				<td>Averaging unevenly spaced data.</td>
+				<td>Are my data good enough?! Thinking about what you can detect in noisy data.</td>
 				<td>Hales Room, J7</td>
 			</tr>
 			<tr>

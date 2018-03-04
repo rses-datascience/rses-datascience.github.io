@@ -56,7 +56,47 @@ nav-menu: true
 			</div>
 			<h3>Low level programming languages</h3>
 			<p>Fortran and C are also used at RSES for specific applications, notably in Geophysics. Those languages can offer very high computational speed for specific applications. However, code prototyping and routine data analysis are not easy with such languages. For such tasks, high-level languages with a numerical analysis focus (as listed above) are used and recommended.</p>
-			<header class="major">
+		<header class="major">
+			<h2>Text Editors</h2>
+		</header>
+			<p>Having a good text editor can be the difference between repeatedly banging your head against a wall, and skipping happily through a flowering meadow. A good editor will make programming as straightforward as possible by providing things like auto-completion, syntax highlighting and checking, de-bugging and version-control integration. There are <b>lots</b> of options out there. These are a few of our favourites. All are cross-platform, and available on all modern operating systems.</p>
+			<div class="row">
+				<div class="6u 12u$(small)">
+					<h3><a href="https://code.visualstudio.com/">Visual Studio Code<sup>*</sup></a></h3>
+					<p>Fast, easy to set up, multiple language support, 'intelligent' auto-completion, customisable. Out-of-the-box Git integration and debugging. Huge 'extensions' library to add extra functionality. Made by Microsoft (?!). Ease of use makes this an excellent place to start if you're new to coding.</p>
+				</div>
+				<div class="6u 12u$(small)">
+					<h3><a href="https://atom.io/">Atom<sup>*</sup></a></h3>
+					<p>GitHub's offering. Similar functionality to VScode - slightly more customisable, but no built-in debugging tools. Lots of extensions available to add these functions, though. Con: slower than vscode.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="6u 12u$(small)">
+					<h3><a href="https://www.sublimetext.com/">Sublime Text<sup>*</sup></a></h3>
+					<p>The predecessor to Atom and VSCode. Costs money ($70). Still an excellent editor, but really no reason to pay for it when the others are equally (if not more) capable, and free.</p>
+				</div>
+				<div class="6u 12u$(small)">
+					<h3><a href="https://www.vim.org/">Vim</a></h3>
+					<p>One of the 'original' text editors. You probably already have it installed, but don't know about it. Try typing <code>vim</code> in your terminal, and you'll probably find it there. Very capable, but initially impenetrable.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="6u 12u$(small)">
+					<h3><a href="https://www.gnu.org/software/emacs/">Emacs</a></h3>
+					<p>The 'real geeks' editor. You can control pretty much everything on your computer from Emacs. STEEP learning curve can be offputting.</p>
+				</div>
+				<div class="6u 12u$(small)">
+					<h3><a href="http://spacemacs.org/">Spacemacs</a></h3>
+					<p>The best of Vim and Emacs, combined. <q>"Makes Emacs useable!"</q> (Branson, 2018).</p>
+				</div>
+			</div>
+			<p>*
+				<em>If you're just starting out, pick one of these three.
+				They're functionally very similar, hugely capable and excellent.
+				For complete beginners <a href="https://code.visualstudio.com/">Visual Studio Code</a> is probably the best choice, as they've put a <b>lot</b> of effort into making the set-up and customisation process as painless as possible, and the extensions framework is more intuitive.
+				</em>
+			</p>
+		<header class="major">
 			<h2>Virtual environments</h2>
 		</header>
 				<h3>Local virtual machines</h3>

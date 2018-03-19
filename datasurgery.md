@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Organizers</h2>
 		</header>
 		<a href="http://rses.anu.edu.au/people/david-heslop">David Heslop</a>,
-		<a href="http://rses.anu.edu.au/people/oscar-branson">Oscar Branson</a>,
+		<a href="http://rses.anu.edu.au/people/oscar-branson">Oscar Branson</a>
 		<p></p>
 		<header class="minor">
 			<h2>Schedule</h2>
@@ -30,7 +30,19 @@ nav-menu: true
 				<td><b>What</b></td>
 				<td><b>Where</b></td>
 			</tr>
+			<!-- <tr style="font-weight:bold">
+				<td><b></b></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr> -->
 			<tr style="font-weight:bold">
+				<td><b>19/03/2018</b></td>
+				<td>Oscar & Charles</td>
+				<td><a href="http://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/Tutorials/01_Basic_Python.ipynb">Tutorial: Python Basics</a></td>
+				<td>Hales Room, J7</td>
+			</tr>
+			<tr>
 				<td><b>05/03/2018</b></td>
 				<td>Jo Stephenson</td>
 				<td>Are my data good enough?! Thinking about what you can detect in noisy data.</td>
@@ -78,12 +90,6 @@ nav-menu: true
 				<td><a href="https://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/01_Intro/Intro_to_Python_and_Jupyter.ipynb" target="_blank">Introduction.</a></td>
 				<td>Ringwood Room, J4</td>
 			</tr>
-			<!-- <tr>
-				<td><b></b></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr> -->
 		</table>
 		<p> If you have an idea for a future surgery, please <a href="mailto:oscar.branson@anu.edu.au,david.heslop@anu.edu.au?subject=Data%20Surgery%20Request"> get in touch!</a>
 		</p>

@@ -37,6 +37,12 @@ nav-menu: true
 				<td></td>
 			</tr> -->
 			<tr style="font-weight:bold">
+				<td><b>07/05/2018</b></td>
+				<td>Oscar & Charles</td>
+				<td><a href="http://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/Tutorials/03_Plotting/03_Plotting.ipynb">Tutorial: Publication-quality plots with matplotlib.</a></td>
+				<td>Hales Room, J7</td>
+			</tr>
+			<tr>
 				<td><b>09/04/2018</b></td>
 				<td>Oscar & Charles</td>
 				<td><a href="http://nbviewer.jupyter.org/github/rses-datascience/DataSurgeries/blob/master/Tutorials/02_data_import/02_Data_Import.ipynb">Tutorial: Data Import/Export in Python</a></td>
